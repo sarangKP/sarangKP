@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=System.init(%22Sarang+K+P%22);Applied+AI+%2F+LLM+Engineer;Backend+%2B+AI+in+Python;Robotics+%2B+Computer+Vision" alt="Typing header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=System.init(%22Sarang+K+P%22);Building+with+AI%2C+Backend+%26+Robotics;Always+learning+something+new;while(true)+%7B+learn()%3B+build()%3B+%7D" alt="Typing header" />
 </p>
 
 <p align="center">
   <a href="mailto:sarangskp@gmail.com"><img src="https://img.shields.io/badge/Mail-sarangskp%40gmail.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/sarang-kp-bb5875174"><img src="https://img.shields.io/badge/LinkedIn-Sarang_K_P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Status-Open_to_Applied_AI_roles-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open_to_opportunities-A855F7?style=for-the-badge" />
 </p>
 
 ---
@@ -14,16 +14,17 @@
 
 ECE graduate from Amrita Vishwa Vidyapeetham (2026, CGPA 8.65). Did a 6-month AI internship at UST's Innovation Labs.
 
-I mostly build backend services and AI features in Python - FastAPI/Flask APIs, Postgres + pgvector, Redis, Docker, and local LLMs through Ollama. I also like working with robots and cameras.
+I like building things end to end - so far that has meant backend services, LLM apps, computer vision and a bit of robotics. Every project usually pulls me into something new, and I enjoy that part the most. Right now I'm going deeper into cloud (AWS) and robotics simulation.
 
-Currently looking for **Applied AI / LLM engineering** roles.
+Always learning, always building. Open to roles in **Applied AI, ML and Data Engineering** - and happy to pick up whatever the work needs.
 
 ---
 
-### `$ cat stack.json`
+### `$ cat toolbox_so_far.json`
 
 ```json
 {
+  "currently_exploring": ["AWS (SAA-C03 prep)", "Robot simulation (PyBullet)", "LangGraph"],
   "languages": ["Python", "SQL", "C/C++", "Go (basic)"],
   "backend":   ["FastAPI", "Flask", "REST", "WebSockets", "PostgreSQL", "pgvector", "Redis"],
   "devops":    ["Docker", "Docker Compose", "GitHub Actions", "Linux", "pytest"],
@@ -88,5 +89,5 @@ Currently looking for **Applied AI / LLM engineering** roles.
 
 <!--
   > process.exit(0)
-  If you're reading the raw file, say hi - always happy to talk about LLMs, robots or backend stuff.
+  If you're reading the raw file, say hi - always happy to talk tech, swap ideas or learn something new.
 -->
