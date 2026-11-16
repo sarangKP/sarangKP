@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=System.init(%22Sarang+K+P%22);Building+with+AI%2C+Backend+%26+Robotics;Always+learning+something+new;while(true)+%7B+learn()%3B+build()%3B+%7D" alt="Typing header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=System.init(%22Sarang+K+P%22);Building+products+with+AI;Always+learning+something+new;while(true)+%7B+learn()%3B+build()%3B+%7D" alt="Typing header" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ECE graduate from Amrita Vishwa Vidyapeetham (2026, CGPA 8.65). Did a 6-month AI internship at UST's Innovation Labs.
 
-I like building things end to end - so far that has meant backend services, LLM apps, computer vision and a bit of robotics. Every project usually pulls me into something new, and I enjoy that part the most. Right now I'm going deeper into cloud (AWS) and robotics simulation.
+I like building things end to end - so far that has meant backend services, LLM apps and computer vision. Every project usually pulls me into something new, and I enjoy that part the most. Lately I'm more interested in the bigger picture - how a product actually works, who it's for, and what business impact it can have - not just the code behind it.
 
 Always learning, always building. Open to roles in **Applied AI, ML and Data Engineering** - and happy to pick up whatever the work needs.
 
@@ -24,7 +24,7 @@ Always learning, always building. Open to roles in **Applied AI, ML and Data Eng
 
 ```json
 {
-  "currently_exploring": ["AWS (SAA-C03 prep)", "Robot simulation (PyBullet)", "LangGraph"],
+  "currently_exploring": ["How products work end to end", "Business impact of tech decisions", "AWS (SAA-C03 prep)"],
   "languages": ["Python", "SQL", "C/C++", "Go (basic)"],
   "backend":   ["FastAPI", "Flask", "REST", "WebSockets", "PostgreSQL", "pgvector", "Redis"],
   "devops":    ["Docker", "Docker Compose", "GitHub Actions", "Linux", "pytest"],
