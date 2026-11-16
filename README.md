@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=750&lines=System.init(%22Sarang+K+P%22);Applied+AI+%2F+LLM+Engineer;Backend+%2B+AI+in+Python;Robotics+%2B+Computer+Vision" alt="Typing header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=System.init(%22Sarang+K+P%22);Applied+AI+%2F+LLM+Engineer;Backend+%2B+AI+in+Python;Robotics+%2B+Computer+Vision" alt="Typing header" />
 </p>
 
 <p align="center">
-  <a href="mailto:sarangskp@gmail.com"><img src="https://img.shields.io/badge/Mail-sarangskp%40gmail.com-00FF99?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="mailto:sarangskp@gmail.com"><img src="https://img.shields.io/badge/Mail-sarangskp%40gmail.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/sarang-kp-bb5875174"><img src="https://img.shields.io/badge/LinkedIn-Sarang_K_P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Status-Open_to_Applied_AI_roles-00FF99?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Applied_AI_roles-A855F7?style=for-the-badge" />
 </p>
 
 ---
